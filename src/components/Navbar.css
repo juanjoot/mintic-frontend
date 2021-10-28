@@ -1,0 +1,12 @@
+ .navbar{
+    width: 100%;
+    background-color: rgb(151, 148, 148);
+    overflow: auto;
+    font-size: 15px;
+  }
+
+  #derecha {
+    margin-left: auto;
+}
+
+ 
